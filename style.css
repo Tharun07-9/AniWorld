@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #222;
+  padding: 20px;
+}
+
+.anime-card {
+  background: #333;
+  margin: 20px auto;
+  padding: 20px;
+  width: 300px;
+  border-radius: 10px;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 10px;
+  background: #222;
+}
